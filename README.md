@@ -22,4 +22,5 @@ HDR does not work on all computer
 * Make home screen
 * Winning screen adding
 * letting last ring glow in another coler
-* Make game bright 
+* Make game bright
+* remove folder wiki and screenshot from github
