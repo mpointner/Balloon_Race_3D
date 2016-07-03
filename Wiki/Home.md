@@ -44,4 +44,4 @@ NOTE: A detailed description for controlling the Actors is in the Design Documen
 [Design Document](https://github.com/ippon1/Balloon_Race_3D/wiki/Design-Document)
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/ippon1/Balloon_Race_3D/master/Screenshot/balloonrace3dneu.jpg)
+![Screenshot](https://raw.githubusercontent.com/ippon1/Balloon_Race_3D/master/Screenshots/balloonrace3dneu.jpg)
